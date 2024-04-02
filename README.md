@@ -1,3 +1,5 @@
+**NOTE*****: the Result folder is a new independent one about image filters**
+
 # EasyOCR
 
 [![PyPI Status](https://badge.fury.io/py/easyocr.svg)](https://badge.fury.io/py/easyocr)
